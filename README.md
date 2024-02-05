@@ -5,7 +5,8 @@ The purpose of this project is to create a wrapper around NASM Intel x86_64 asse
 ### Genesis
 
 [I made Assembly Cool Again, with ASM++ (by Code Nybble)](https://www.youtube.com/watch?v=aD7rOQSrXl8&t=246s)
-[Code Nybble's Discord server]()
+
+[Code Nybble's Discord server](https://discord.com/invite/zw6MpRkyUa)
 
 ### Contributions
 
